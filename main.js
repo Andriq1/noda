@@ -1,2 +1,2 @@
-var t = require("./miid");
-console.info(t.x);
+var t = require("./mi1d");
+console.info(t);
