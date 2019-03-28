@@ -1,4 +1,3 @@
-
-
 let x = 10;
-module.exports = x;
+exports.x = x;
+// module.exports = x;
